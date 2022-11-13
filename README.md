@@ -3,12 +3,19 @@ openconnect site2site connection
 
 ## Requirment
 
-**iproute2**
-**iptables**
-**vpn-slice(pip)**
 **openconnect**
+
 **ocserv**
 
+**iproute2**
+
+**vpn-slice(install it using pip3)**
+
+**iptables(perhaps default installed on your distro**
+
+InServer: Openwrt-21.02.5
+
+OutServer: Ubuntu 20.04
 ## How it's Work
 
 1. install Requirments
